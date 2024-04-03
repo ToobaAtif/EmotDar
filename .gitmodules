@@ -1,3 +1,6 @@
 [submodule "emotdarr"]
 	path = emotdarr
 	url = https://github.com/laaibaQasim/emotdar_website.git
+[submodule "dataset/dataset"]
+	path = dataset/dataset
+	url = https://github.com/ToobaAtif/Video-DataSet.git
