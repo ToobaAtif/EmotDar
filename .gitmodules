@@ -1,0 +1,3 @@
+[submodule "emotdarr"]
+	path = emotdarr
+	url = https://github.com/laaibaQasim/emotdar_website.git
